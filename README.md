@@ -33,8 +33,9 @@ Users should be able to:
 
 ![csscode](https://github.com/miteshp98/results-summary-component-main/assets/145320555/20f5cd53-dbd6-4a01-b4ed-b5f0a7a8a501)
 
+![Iphone13pro](https://github.com/miteshp98/results-summary-component-main/assets/145320555/95d1456b-2d7a-4c24-b6f5-d450e7062427)
 
-![Uploading Iphone13pro.gif…]()
+
 
 **Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
