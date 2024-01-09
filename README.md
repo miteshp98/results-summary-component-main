@@ -29,7 +29,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![htmlcode](https://github.com/miteshp98/results-summary-component-main/assets/145320555/fddf380b-21f1-4241-aa76-7360e4cf5b76)
+
+![csscode](https://github.com/miteshp98/results-summary-component-main/assets/145320555/20f5cd53-dbd6-4a01-b4ed-b5f0a7a8a501)
 
 
 
